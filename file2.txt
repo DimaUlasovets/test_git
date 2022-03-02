@@ -1,2 +1,2 @@
 Some text fot test !!!!
-
+Hello^ tst text. Delete when i use git reset))
