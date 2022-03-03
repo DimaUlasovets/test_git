@@ -1,1 +1,2 @@
 Hello^ another .txt file for test with git)
+add new line
