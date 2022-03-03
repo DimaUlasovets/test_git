@@ -1,3 +1,4 @@
 Some text fot test !!!!
 Hello^ tst text. delete when i use git reset))
 ertert12321312313
+test text !!!!!
